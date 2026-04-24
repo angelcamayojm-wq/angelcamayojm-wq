@@ -80,10 +80,12 @@
 
 <p align="center">
   <a href="mailto:angel.camayojm@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Contáctame%20por%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/angelcamayojm-wq">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=footer"/>
