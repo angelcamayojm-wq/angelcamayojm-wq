@@ -73,7 +73,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/angelcamayojm-wq/angelcamayojm-wq/output/snake-neon.svg" />
 </p>
-
 ---
 
 ## 📫 Contacto
