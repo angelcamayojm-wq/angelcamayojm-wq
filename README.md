@@ -71,7 +71,7 @@
 ## 🐍 Snake de contribuciones
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/angelcamayojm-wq/angelcamayojm-wq/output/snake-neon.svg" />
+  <img src="https://raw.githubusercontent.com/angelcamayojm-wq/angelcamayojm-wq/output/snake-dark.svg" />
 </p>
 ---
 
