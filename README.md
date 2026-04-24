@@ -80,10 +80,9 @@
 
 <p align="center">
   <a href="mailto:angel.camayojm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/📧%20Contáctame%20por%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 ---
 
 <p align="center">
