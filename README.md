@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre mí
 
-- 🌱 Aprendiendo **JavaScript, Python, Git y GitHub**
+- 🌱 Aprendiendo **JavaScript, Html, Python, Git y GitHub**
 - 💻 Construyendo proyectos reales
 - ⚽ Fan del fútbol
 - 🎯 Meta: ser desarrollador profesional
