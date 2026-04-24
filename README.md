@@ -3,17 +3,21 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer+in+progress;Learning+JavaScript+and+Python;Building+cool+web+projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer+in+progress;Learning+JavaScript+and+Python;Building+real+projects+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=angelcamayojm-wq&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🚀 Sobre mí
 
-- 🌱 Actualmente estoy aprendiendo **JavaScript, Python, Git y GitHub**
-- 💻 Me gusta crear proyectos web
-- ⚽ Fan del fútbol
-- 🎯 Objetivo: convertirme en desarrollador de software
+- 🌱 Actualmente aprendiendo **JavaScript, Python, Git y GitHub**
+- 💻 Creando proyectos web reales
+- 📈 Interesado en trading
+- 🎯 Objetivo: ser desarrollador profesional
 
 ---
 
@@ -30,11 +34,29 @@
 
 ---
 
-## 📌 Proyectos destacados
+## 🚀 Proyectos en vivo
 
-- 🌦️ **App-Clima-Api** → aplicación del clima usando API  
-- ✅ **lista-tareas-js** → lista de tareas con JavaScript  
-- 💻 **FlowCodeAngel** → práctica de programación  
+<p align="center">
+  <a href="https://app-clima-api2.netlify.app/">
+    <img src="https://img.shields.io/badge/🌦️%20App%20Clima%20-%20Ver%20Proyecto-0A66C2?style=for-the-badge" />
+  </a>
+  <a href="https://lista-tareas-angel.netlify.app/">
+    <img src="https://img.shields.io/badge/✅%20Lista%20de%20Tareas%20-%20Ver%20Proyecto-28a745?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 📌 Repositorios destacados
+
+<p align="center">
+  <a href="https://github.com/angelcamayojm-wq/App-Clima-Api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=angelcamayojm-wq&repo=App-Clima-Api&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/angelcamayojm-wq/lista-tareas-js">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=angelcamayojm-wq&repo=lista-tareas-js&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
