@@ -78,9 +78,9 @@
 
 ## 📫 Contacto
 <p align="center">
-  <a href="mailto:angel.camayojm@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-  </a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=angel.camayojm@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
   <a href="https://github.com/angelcamayojm-wq">
     <img src="https://skillicons.dev/icons?i=github" height="50"/>
   </a>
