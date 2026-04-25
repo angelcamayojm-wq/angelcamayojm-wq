@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre mí
 
-- 🌱 Aprendiendo **JavaScript, Html, Python, Git y GitHub**
+- 🌱 Aprendiendo **JavaScript, HTML, Python, Git y GitHub**
 - 💻 Construyendo proyectos reales
 - ⚽ Fan del fútbol
 - 🎯 Meta: ser desarrollador profesional
@@ -38,6 +38,9 @@
   <a href="https://lista-tareas-angel.netlify.app/">
     <img src="https://img.shields.io/badge/✅%20Lista%20de%20Tareas-Ver%20Proyecto-28a745?style=for-the-badge" />
   </a>
+  <a href="https://crud-usuarios-js-angeldev.netlify.app/">
+    <img src="https://img.shields.io/badge/👥%20CRUD%20Usuarios-Ver%20Proyecto-ff5733?style=for-the-badge" />
+  </a>
 </p>
 
 ---
@@ -45,12 +48,19 @@
 ## 📌 Repos destacados
 
 <p align="center">
-  <a href="https://github.com/angelcamayojm-wq/App-Clima-Api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=angelcamayojm-wq&repo=App-Clima-Api&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/angelcamayojm-wq/lista-tareas-js">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=angelcamayojm-wq&repo=lista-tareas-js&theme=tokyonight" />
-  </a>
+
+<a href="https://github.com/angelcamayojm-wq/crud-usuarios-js">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=angelcamayojm-wq&repo=crud-usuarios-js&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/angelcamayojm-wq/App-Clima-Api">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=angelcamayojm-wq&repo=App-Clima-Api&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/angelcamayojm-wq/lista-tareas-js">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=angelcamayojm-wq&repo=lista-tareas-js&theme=tokyonight" />
+</a>
+
 </p>
 
 ---
@@ -73,9 +83,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/angelcamayojm-wq/angelcamayojm-wq/output/snake.svg" />
 </p>
+
 ---
 
 ## 📫 Contacto
+
 <p align="center">
  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=angel.camayojm@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
