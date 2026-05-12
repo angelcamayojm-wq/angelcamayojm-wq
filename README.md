@@ -47,16 +47,16 @@ Soy estudiante de **Análisis y Desarrollo de Software**. Estoy construyendo mi 
     <td width="40%">
 
 ```js
-const angel = {
+<pre><code>const angel = {
   rol: "Developer in progress",
   stack: ["HTML", "CSS", "JavaScript", "Python"],
   aprendiendo: ["Node.js", "APIs", "GitHub Actions"],
   objetivo: "Full Stack Developer",
   energia: "🔥🔥🔥"
-};
+};</code></pre>
 ```
 
-    </td>
+  
   </tr>
 </table>
 
