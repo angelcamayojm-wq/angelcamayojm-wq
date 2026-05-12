@@ -45,15 +45,7 @@ Soy estudiante de **Análisis y Desarrollo de Software**. Estoy construyendo mi 
 
     </td>
     <td width="40%">
-
-```js
-<pre><code>const angel = {
-  rol: "Developer in progress",
-  stack: ["HTML", "CSS", "JavaScript", "Python"],
-  aprendiendo: ["Node.js", "APIs", "GitHub Actions"],
-  objetivo: "Full Stack Developer",
-  energia: "🔥🔥🔥"
-};</code></pre>
+de></pre>
 ```
 
   
