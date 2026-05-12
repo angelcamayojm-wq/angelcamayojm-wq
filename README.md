@@ -1,4 +1,3 @@
-
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:6A11CB,100:00C9FF&height=220&section=header&text=Angel%20Rivera&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer%20in%20progress%20%F0%9F%9A%80&descAlignY=58&animation=fadeIn"
@@ -8,7 +7,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00E7FF&center=true&vCenter=true&width=850&lines=Hola%2C+soy+Angel+%F0%9F%91%8B;Aprendiendo+HTML%2C+CSS%2C+JavaScript+y+Python;Construyendo+proyectos+reales;Camino+a+Full+Stack+Developer+%F0%9F%9A%80"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00E7FF&center=true&vCenter=true&width=850&lines=Hola%2C+soy+Angel+%F0%9F%91%8B;Estudiante+de+An%C3%A1lisis+y+Desarrollo+de+Software;Aprendiendo+JavaScript%2C+Python+y+Node.js;Construyendo+proyectos+reales;Camino+a+Full+Stack+Developer+%F0%9F%9A%80"
     alt="Typing SVG"
   />
 </p>
@@ -21,13 +20,13 @@
     <img src="https://img.shields.io/badge/Repositorios-Ver%20proyectos-00C9FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=angel.camayojm@gmail.com">
-  <img src="https://img.shields.io/badge/Contacto-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto Gmail" />
-</a>
+    <img src="https://img.shields.io/badge/Contacto-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto Gmail" />
+  </a>
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 👨‍💻 Sobre mí
 
 <table>
   <tr>
@@ -45,16 +44,40 @@ Soy estudiante de **Análisis y Desarrollo de Software**. Estoy construyendo mi 
 
     </td>
     <td width="40%">
-de></pre>
-```
 
-  
+<pre><code>const angel = {
+  rol: "Developer in progress",
+  stack: ["HTML", "CSS", "JavaScript", "Python"],
+  aprendiendo: ["Node.js", "APIs", "GitHub Actions"],
+  objetivo: "Full Stack Developer",
+  energia: "🔥🔥🔥"
+};</code></pre>
+
+    </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 Objetivo profesional
+
+Busco oportunidades como **desarrollador junior, aprendiz o practicante**, donde pueda seguir creciendo en desarrollo frontend, JavaScript, consumo de APIs, buenas prácticas de Git/GitHub y construcción de proyectos reales.
+
+Mi objetivo es fortalecer mis bases técnicas, escribir código más limpio y avanzar paso a paso hacia el desarrollo **Full Stack** 🚀.
+
+---
+
+## 🚧 Actualmente trabajando en
+
+- Mejorar mis proyectos con **JavaScript moderno**
+- Practicar consumo de **APIs REST**
+- Aprender bases de **Node.js**
+- Organizar mejor mis repositorios y documentación
+- Crear proyectos con mejor estructura, commits claros y README profesionales
+
+---
+
+## 🛠️ Pila tecnológica
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,git,github,vscode" alt="Tecnologías" />
@@ -65,6 +88,7 @@ de></pre>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
@@ -75,13 +99,13 @@ de></pre>
 
 <p align="center">
   <a href="https://app-clima-api2.netlify.app/">
-    <img src="https://img.shields.io/badge/🌦️%20App%20Clima-Ver%20demo-00C9FF?style=for-the-badge" alt="App Clima" />
+    <img src="https://img.shields.io/badge/App%20Clima-Ver%20demo-00C9FF?style=for-the-badge&logo=cloudflare&logoColor=white" alt="App Clima" />
   </a>
   <a href="https://lista-tareas-angel.netlify.app/">
-    <img src="https://img.shields.io/badge/✅%20Lista%20de%20Tareas-Ver%20demo-28A745?style=for-the-badge" alt="Lista de tareas" />
+    <img src="https://img.shields.io/badge/Lista%20de%20Tareas-Ver%20demo-28A745?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Lista de tareas" />
   </a>
   <a href="https://crud-usuarios-js-angeldev.netlify.app/">
-    <img src="https://img.shields.io/badge/👥%20CRUD%20Usuarios-Ver%20demo-FF6B35?style=for-the-badge" alt="CRUD Usuarios" />
+    <img src="https://img.shields.io/badge/CRUD%20Usuarios-Ver%20demo-FF6B35?style=for-the-badge&logo=javascript&logoColor=white" alt="CRUD Usuarios" />
   </a>
 </p>
 
@@ -91,16 +115,72 @@ de></pre>
 
 <p align="center">
   <a href="https://github.com/angelcamayojm-wq/Crud-usuarios-js">
-    <img src="https://img.shields.io/badge/Crud%20Usuarios-JavaScript-6A11CB?style=for-the-badge&logo=github" alt="Crud Usuarios" />
+    <img src="https://img.shields.io/badge/CRUD%20Usuarios-JavaScript-6A11CB?style=for-the-badge&logo=github&logoColor=white" alt="CRUD Usuarios" />
   </a>
   <a href="https://github.com/angelcamayojm-wq/App-Clima-Api">
-    <img src="https://img.shields.io/badge/App%20Clima-API-00C9FF?style=for-the-badge&logo=github" alt="App Clima API" />
+    <img src="https://img.shields.io/badge/App%20Clima-API-00C9FF?style=for-the-badge&logo=github&logoColor=white" alt="App Clima API" />
   </a>
   <a href="https://github.com/angelcamayojm-wq/lista-tareas-js">
-    <img src="https://img.shields.io/badge/Lista%20Tareas-JavaScript-28A745?style=for-the-badge&logo=github" alt="Lista Tareas" />
+    <img src="https://img.shields.io/badge/Lista%20Tareas-JavaScript-28A745?style=for-the-badge&logo=github&logoColor=white" alt="Lista Tareas" />
   </a>
   <a href="https://github.com/angelcamayojm-wq/FlowCodeAngel">
-    <img src="https://img.shields.io/badge/FlowCodeAngel-Portfolio-FF6B35?style=for-the-badge&logo=github" alt="FlowCodeAngel" />
+    <img src="https://img.shields.io/badge/FlowCodeAngel-Portfolio-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="FlowCodeAngel" />
+  </a>
+</p>
+
+---
+
+## 🧩 Proyectos principales
+
+### 🌦️ App Clima
+
+Aplicación web para consultar información del clima por ciudad usando una API externa.
+
+**Tecnologías usadas:** HTML, CSS, JavaScript, API REST  
+**Aprendizajes:** consumo de API, manejo de eventos, validaciones, renderizado dinámico y control de errores.
+
+<p>
+  <a href="https://app-clima-api2.netlify.app/">
+    <img src="https://img.shields.io/badge/Demo-Ver%20proyecto-00C9FF?style=for-the-badge&logo=netlify&logoColor=white" alt="Demo App Clima" />
+  </a>
+  <a href="https://github.com/angelcamayojm-wq/App-Clima-Api">
+    <img src="https://img.shields.io/badge/Código-Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio App Clima" />
+  </a>
+</p>
+
+---
+
+### ✅ Lista de Tareas
+
+Aplicación para gestionar tareas desde el navegador, enfocada en lógica, eventos y manipulación del DOM.
+
+**Tecnologías usadas:** HTML, CSS, JavaScript  
+**Aprendizajes:** DOM, funciones, eventos, estructura básica de un CRUD y organización de código.
+
+<p>
+  <a href="https://lista-tareas-angel.netlify.app/">
+    <img src="https://img.shields.io/badge/Demo-Ver%20proyecto-28A745?style=for-the-badge&logo=netlify&logoColor=white" alt="Demo Lista de Tareas" />
+  </a>
+  <a href="https://github.com/angelcamayojm-wq/lista-tareas-js">
+    <img src="https://img.shields.io/badge/Código-Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio Lista de Tareas" />
+  </a>
+</p>
+
+---
+
+### 👥 CRUD Usuarios
+
+Proyecto CRUD para crear, leer, actualizar y eliminar usuarios desde una interfaz web.
+
+**Tecnologías usadas:** HTML, CSS, JavaScript  
+**Aprendizajes:** lógica CRUD, formularios, validaciones, eventos, manejo de datos y estructura de interfaz.
+
+<p>
+  <a href="https://crud-usuarios-js-angeldev.netlify.app/">
+    <img src="https://img.shields.io/badge/Demo-Ver%20proyecto-FF6B35?style=for-the-badge&logo=netlify&logoColor=white" alt="Demo CRUD Usuarios" />
+  </a>
+  <a href="https://github.com/angelcamayojm-wq/Crud-usuarios-js">
+    <img src="https://img.shields.io/badge/Código-Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio CRUD Usuarios" />
   </a>
 </p>
 
@@ -151,11 +231,11 @@ de></pre>
 ## 🐍 Snake de contribuciones
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/angelcamayojm-wq/angelcamayojm-wq/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/angelcamayojm-wq/angelcamayojm-wq/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake de contribuciones" src="https://raw.githubusercontent.com/angelcamayojm-wq/angelcamayojm-wq/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/angelcamayojm-wq/angelcamayojm-wq/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake de contribuciones"
+    width="100%"
+  />
 </p>
 
 ---
@@ -164,11 +244,10 @@ de></pre>
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=angel.camayojm@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail" />
-</a>
-  &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Gmail-Enviar%20correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
   <a href="https://github.com/angelcamayojm-wq">
-    <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Ver%20perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
