@@ -129,12 +129,29 @@ const angel = {
 ## 📊 Estadísticas
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=angelcamayojm-wq&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18&rank_icon=github" alt="Estadísticas de GitHub" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=angelcamayojm-wq&theme=tokyonight&hide_border=true&border_radius=18" alt="Racha de GitHub" />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelcamayojm-wq&theme=tokyonight"
+    alt="Estadísticas de GitHub"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=angelcamayojm-wq&theme=tokyonight&hide_border=true&border_radius=18"
+    alt="Racha de GitHub"
+  />
 </p>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelcamayojm-wq&layout=compact&theme=tokyonight&hide_border=true&border_radius=18" alt="Lenguajes más usados" />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelcamayojm-wq&theme=tokyonight"
+    alt="Lenguajes más usados por repositorio"
+  />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angelcamayojm-wq&theme=tokyonight"
+    alt="Lenguajes más usados por commits"
+  />
 </p>
 
 ---
