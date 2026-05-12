@@ -1,7 +1,3 @@
-<!--
-  Perfil GitHub de Angel Rivera
-  Tip: este README se muestra en tu perfil porque el repo se llama igual que tu usuario: angelcamayojm-wq
--->
 
 <p align="center">
   <img
@@ -24,9 +20,9 @@
   <a href="https://github.com/angelcamayojm-wq?tab=repositories">
     <img src="https://img.shields.io/badge/Repositorios-Ver%20proyectos-00C9FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios" />
   </a>
-  <a href="mailto:angel.camayojm@gmail.com">
-    <img src="https://img.shields.io/badge/Contacto-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto Gmail" />
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=angel.camayojm@gmail.com">
+  <img src="https://img.shields.io/badge/Contacto-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto Gmail" />
+</a>
 </p>
 
 ---
@@ -102,20 +98,17 @@ const angel = {
 ## 📌 Repos destacados
 
 <p align="center">
-  <a href="https://github.com/angelcamayojm-wq/crud-usuarios-js">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=angelcamayojm-wq&repo=crud-usuarios-js&theme=tokyonight&hide_border=true&border_radius=18" alt="crud-usuarios-js" />
+  <a href="https://github.com/angelcamayojm-wq/Crud-usuarios-js">
+    <img src="https://img.shields.io/badge/Crud%20Usuarios-JavaScript-6A11CB?style=for-the-badge&logo=github" alt="Crud Usuarios" />
   </a>
   <a href="https://github.com/angelcamayojm-wq/App-Clima-Api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=angelcamayojm-wq&repo=App-Clima-Api&theme=tokyonight&hide_border=true&border_radius=18" alt="App-Clima-Api" />
+    <img src="https://img.shields.io/badge/App%20Clima-API-00C9FF?style=for-the-badge&logo=github" alt="App Clima API" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/angelcamayojm-wq/lista-tareas-js">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=angelcamayojm-wq&repo=lista-tareas-js&theme=tokyonight&hide_border=true&border_radius=18" alt="lista-tareas-js" />
+    <img src="https://img.shields.io/badge/Lista%20Tareas-JavaScript-28A745?style=for-the-badge&logo=github" alt="Lista Tareas" />
   </a>
   <a href="https://github.com/angelcamayojm-wq/FlowCodeAngel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=angelcamayojm-wq&repo=FlowCodeAngel&theme=tokyonight&hide_border=true&border_radius=18" alt="FlowCodeAngel" />
+    <img src="https://img.shields.io/badge/FlowCodeAngel-Portfolio-FF6B35?style=for-the-badge&logo=github" alt="FlowCodeAngel" />
   </a>
 </p>
 
@@ -161,9 +154,9 @@ const angel = {
 ## 📫 Conectemos
 
 <p align="center">
-  <a href="mailto:angel.camayojm@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail" />
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=angel.camayojm@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail" />
+</a>
   &nbsp;&nbsp;
   <a href="https://github.com/angelcamayojm-wq">
     <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
