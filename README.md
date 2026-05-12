@@ -14,13 +14,13 @@
 
 <p align="center">
   <a href="https://github.com/angelcamayojm-wq">
-    <img src="https://komarev.com/ghpvc/?username=angelcamayojm-wq&label=Visitas%20al%20perfil&color=6A11CB&style=for-the-badge" alt="Visitas al perfil" />
+    <img src="https://komarev.com/ghpvc/?username=angelcamayojm-wq&label=%F0%9F%91%80%20Visitas&color=6A11CB&style=for-the-badge" alt="Visitas al perfil" />
   </a>
   <a href="https://github.com/angelcamayojm-wq?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositorios-Ver%20proyectos-00C9FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios" />
+    <img src="https://img.shields.io/badge/%F0%9F%93%81%20Repositorios-Ver%20proyectos-00C9FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=angel.camayojm@gmail.com">
-    <img src="https://img.shields.io/badge/Contacto-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto Gmail" />
+    <img src="https://img.shields.io/badge/%F0%9F%93%A9%20Contacto-Enviar%20correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto Gmail" />
   </a>
 </p>
 
@@ -99,13 +99,13 @@ Mi objetivo es fortalecer mis bases técnicas, escribir código más limpio y av
 
 <p align="center">
   <a href="https://app-clima-api2.netlify.app/">
-    <img src="https://img.shields.io/badge/App%20Clima-Ver%20demo-00C9FF?style=for-the-badge&logo=cloudflare&logoColor=white" alt="App Clima" />
+    <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8F%20App%20Clima-Ver%20demo-00C9FF?style=for-the-badge&logo=netlify&logoColor=white" alt="App Clima" />
   </a>
   <a href="https://lista-tareas-angel.netlify.app/">
-    <img src="https://img.shields.io/badge/Lista%20de%20Tareas-Ver%20demo-28A745?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Lista de tareas" />
+    <img src="https://img.shields.io/badge/%E2%9C%85%20Lista%20de%20Tareas-Ver%20demo-28A745?style=for-the-badge&logo=netlify&logoColor=white" alt="Lista de tareas" />
   </a>
   <a href="https://crud-usuarios-js-angeldev.netlify.app/">
-    <img src="https://img.shields.io/badge/CRUD%20Usuarios-Ver%20demo-FF6B35?style=for-the-badge&logo=javascript&logoColor=white" alt="CRUD Usuarios" />
+    <img src="https://img.shields.io/badge/%F0%9F%91%A5%20CRUD%20Usuarios-Ver%20demo-FF6B35?style=for-the-badge&logo=netlify&logoColor=white" alt="CRUD Usuarios" />
   </a>
 </p>
 
@@ -115,16 +115,16 @@ Mi objetivo es fortalecer mis bases técnicas, escribir código más limpio y av
 
 <p align="center">
   <a href="https://github.com/angelcamayojm-wq/Crud-usuarios-js">
-    <img src="https://img.shields.io/badge/CRUD%20Usuarios-JavaScript-6A11CB?style=for-the-badge&logo=github&logoColor=white" alt="CRUD Usuarios" />
+    <img src="https://img.shields.io/badge/%F0%9F%91%A5%20CRUD%20Usuarios-JavaScript-6A11CB?style=for-the-badge&logo=javascript&logoColor=white" alt="CRUD Usuarios" />
   </a>
   <a href="https://github.com/angelcamayojm-wq/App-Clima-Api">
-    <img src="https://img.shields.io/badge/App%20Clima-API-00C9FF?style=for-the-badge&logo=github&logoColor=white" alt="App Clima API" />
+    <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8F%20App%20Clima-API-00C9FF?style=for-the-badge&logo=javascript&logoColor=white" alt="App Clima API" />
   </a>
   <a href="https://github.com/angelcamayojm-wq/lista-tareas-js">
-    <img src="https://img.shields.io/badge/Lista%20Tareas-JavaScript-28A745?style=for-the-badge&logo=github&logoColor=white" alt="Lista Tareas" />
+    <img src="https://img.shields.io/badge/%E2%9C%85%20Lista%20Tareas-JavaScript-28A745?style=for-the-badge&logo=javascript&logoColor=white" alt="Lista Tareas" />
   </a>
   <a href="https://github.com/angelcamayojm-wq/FlowCodeAngel">
-    <img src="https://img.shields.io/badge/FlowCodeAngel-Portfolio-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="FlowCodeAngel" />
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20FlowCodeAngel-Portfolio-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="FlowCodeAngel" />
   </a>
 </p>
 
@@ -244,10 +244,10 @@ Proyecto CRUD para crear, leer, actualizar y eliminar usuarios desde una interfa
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=angel.camayojm@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Enviar%20correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/%F0%9F%93%A9%20Gmail-Enviar%20correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/angelcamayojm-wq">
-    <img src="https://img.shields.io/badge/GitHub-Ver%20perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/%F0%9F%90%99%20GitHub-Ver%20perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
