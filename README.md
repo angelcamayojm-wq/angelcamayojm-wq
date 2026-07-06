@@ -141,10 +141,10 @@ HTML · CSS · JavaScript · CRUD
 
 ---
 
-## 🔥 Actividad
+## 🎮 Contribuciones 3D (Alternativa interactiva a la snake)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=angelcamayojm-wq&theme=tokyonight&bg_color=1a1b27&color=00E7FF&line=6A11CB&point=00C9FF&area=true&hide_border=true" width="100%"/>
+  <img src="https://raw.githubusercontent.com/angelcamayojm-wq/angelcamayojm-wq/main/profile-3d-contrib/profile-night-view.svg" width="100%" />
 </p>
 
 ---
