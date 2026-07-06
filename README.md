@@ -17,7 +17,9 @@
     <img src="https://img.shields.io/badge/📁%20Repositorios-Ver%20proyectos-00C9FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-[![📩 Contacto - Enviar correo](https://img.shields.io/badge/📩%20Contacto-Enviar%20correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angel.camayojm@gmail.com)
+  <a href="mailto:angel.camayojm@gmail.com">
+    <img src="https://img.shields.io/badge/📩%20Contacto-Enviar%20correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -159,7 +161,9 @@ HTML · CSS · JavaScript · CRUD
   <img src="https://img.shields.io/badge/📩%20Gmail-Enviar%20correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-[![📩 Contacto - Enviar correo](https://img.shields.io/badge/📩%20Contacto-Enviar%20correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angel.camayojm@gmail.com)
+<a href="https://github.com/angelcamayojm-wq">
+  <img src="https://img.shields.io/badge/🐙%20GitHub-Ver%20perfil-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </p>
 
