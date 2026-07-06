@@ -1,7 +1,7 @@
 # 👋 Hola, soy Angel Rivera
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:6A11CB,100:00C9FF&height=220&section=header&text=Angel%20Rivera&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Desarrollador%20en%20formación%20🚀&descAlignY=58&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:6A11CB,100:00C9FF&height=220&section=header&text=Angel%20Rivera&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer%20in%20progress%20🚀&descAlignY=58&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -12,12 +12,12 @@
   <a href="https://github.com/angelcamayojm-wq">
     <img src="https://komarev.com/ghpvc/?username=angelcamayojm-wq&label=👀%20Visitas&color=6A11CB&style=for-the-badge" />
   </a>
+
   <a href="https://github.com/angelcamayojm-wq?tab=repositories">
     <img src="https://img.shields.io/badge/📁%20Repositorios-Ver%20proyectos-00C9FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:angel.camayojm@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Enviar%20correo-00C853?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+[![📩 Contacto - Enviar correo](https://img.shields.io/badge/📩%20Contacto-Enviar%20correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angel.camayojm@gmail.com)
 </p>
 
 ---
@@ -28,6 +28,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 </p>
 
+```javascript
 const angel = {
   rol: "Developer in progress",
   stack: ["HTML", "CSS", "JavaScript", "Python"],
@@ -35,6 +36,7 @@ const angel = {
   objetivo: "Full Stack Developer",
   energia: "🔥🔥🔥"
 };
+```
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎯%20Objetivo-Full%20Stack%20Developer-6A11CB?style=for-the-badge" />
@@ -51,10 +53,10 @@ const angel = {
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100" />
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" />
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100" />
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="120" />
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="120" />
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="120" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="120" />
 </p>
 
 ---
@@ -141,10 +143,10 @@ HTML · CSS · JavaScript · CRUD
 
 ---
 
-## 🎮 Contribuciones 3D (Alternativa interactiva a la snake)
+## 🐍 Snake de contribuciones
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/angelcamayojm-wq/angelcamayojm-wq/main/profile-3d-contrib/profile-night-view.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/angelcamayojm-wq/angelcamayojm-wq/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 ---
@@ -157,9 +159,7 @@ HTML · CSS · JavaScript · CRUD
   <img src="https://img.shields.io/badge/📩%20Gmail-Enviar%20correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/angelcamayojm-wq">
-  <img src="https://img.shields.io/badge/🐙%20GitHub-Ver%20perfil-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[![📩 Contacto - Enviar correo](https://img.shields.io/badge/📩%20Contacto-Enviar%20correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angel.camayojm@gmail.com)
 
 </p>
 
