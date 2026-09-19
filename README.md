@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:141E30,50:6A11CB,100:00C9FF&height=260&section=header&text=Angel%20Rivera&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20in%20progress%20🚀&descSize=22&descAlignY=60&animation=twinkling" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=700&height=30&lines=%3E+iniciando+sistema...;%3E+cargando+perfil+de+Angel+Rivera...;%3E+ACCESO+CONCEDIDO+✅" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:141E30,50:6A11CB,100:00C9FF&height=300&section=header&text=Angel%20Rivera&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20in%20progress%20🚀&descSize=22&descAlignY=62&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -7,22 +11,20 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/🟢%20STATUS-ONLINE-00E676?style=for-the-badge&labelColor=141E30" />
+  <img src="https://img.shields.io/badge/⚡%20NIVEL-EN%20ASCENSO-6A11CB?style=for-the-badge&labelColor=141E30" />
+  <img src="https://img.shields.io/badge/🎯%20MISIÓN-FULL%20STACK-00C9FF?style=for-the-badge&labelColor=141E30" />
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/vXyIMuWbGTMtO/giphy.gif" width="480" alt="Kakashi Chidori" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/angelcamayojm-wq">
-    <img src="https://komarev.com/ghpvc/?username=angelcamayojm-wq&label=👀%20Visitas&color=6A11CB&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/angelcamayojm-wq?tab=followers">
-    <img src="https://img.shields.io/github/followers/angelcamayojm-wq?label=Seguidores&style=for-the-badge&logo=github&color=00C9FF&labelColor=141E30" />
-  </a>
-  <a href="https://github.com/angelcamayojm-wq?tab=repositories">
-    <img src="https://img.shields.io/badge/📁%20Repositorios-Explorar-00C9FF?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:angel.camayojm@gmail.com">
-    <img src="https://img.shields.io/badge/📩%20Contacto-Enviar%20correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://github.com/angelcamayojm-wq"><img src="https://komarev.com/ghpvc/?username=angelcamayojm-wq&label=👀%20Visitas&color=6A11CB&style=for-the-badge" /></a>
+  <a href="https://github.com/angelcamayojm-wq?tab=followers"><img src="https://img.shields.io/github/followers/angelcamayojm-wq?label=Seguidores&style=for-the-badge&logo=github&color=00C9FF&labelColor=141E30" /></a>
+  <a href="https://github.com/angelcamayojm-wq?tab=repositories"><img src="https://img.shields.io/badge/📁%20Repositorios-Explorar-00C9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:angel.camayojm@gmail.com"><img src="https://img.shields.io/badge/📩%20Contacto-Enviar%20correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,50:6A11CB,100:00C9FF&height=3" width="100%" />
@@ -174,23 +176,34 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelcamayojm-wq&theme=tokyonight" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=angelcamayojm-wq&theme=tokyonight&hide_border=true&border_radius=18" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=700&height=30&lines=%3E+analizando+actividad...;%3E+sincronizando+repositorios...;%3E+sistema+en+línea+🟢" />
+</p>
+
+<h3 align="center">🎮 Panel de estado</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🟢%20SISTEMA-EN%20LÍNEA-00E676?style=for-the-badge&labelColor=141E30" />
+  <img src="https://img.shields.io/badge/⚡%20MODO-APRENDIZAJE%20CONSTANTE-6A11CB?style=for-the-badge&labelColor=141E30" />
+  <img src="https://img.shields.io/badge/🏅%20RANGO-DEVELOPER%20EN%20ASCENSO-FF6B35?style=for-the-badge&labelColor=141E30" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelcamayojm-wq&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angelcamayojm-wq&theme=tokyonight" />
+  <img src="https://img.shields.io/github/followers/angelcamayojm-wq?label=👥%20SEGUIDORES&style=for-the-badge&color=00C9FF&labelColor=141E30" />
+  <img src="https://img.shields.io/badge/🚀%20PRÓXIMO%20NIVEL-FULL%20STACK-FE428E?style=for-the-badge&labelColor=141E30" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=angelcamayojm-wq&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelcamayojm-wq&theme=radical" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=angelcamayojm-wq&theme=radical&hide_border=true&border_radius=18" />
 </p>
 
-<h3 align="center">🏆 Trofeos</h3>
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelcamayojm-wq&theme=radical" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angelcamayojm-wq&theme=radical" />
+</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=angelcamayojm-wq&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelcamayojm-wq&theme=radical" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,50:6A11CB,100:00C9FF&height=3" width="100%" />
@@ -214,9 +227,7 @@ flowchart LR
 </p>
 
 <p align="center">
-  <a href="https://github.com/angelcamayojm-wq?tab=repositories">
-    <img src="https://img.shields.io/badge/📁%20Ver%20mis%20repositorios-Ir%20a%20GitHub-6A11CB?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="https://github.com/angelcamayojm-wq?tab=repositories"><img src="https://img.shields.io/badge/📁%20Ver%20mis%20repositorios-Ir%20a%20GitHub-6A11CB?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,50:6A11CB,100:00C9FF&height=3" width="100%" />
@@ -228,12 +239,8 @@ flowchart LR
 </p>
 
 <p align="center">
-  <a href="mailto:angel.camayojm@gmail.com">
-    <img src="https://img.shields.io/badge/📩%20Gmail-angel.camayojm@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/angelcamayojm-wq">
-    <img src="https://img.shields.io/badge/🐙%20GitHub-angelcamayojm--wq-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="mailto:angel.camayojm@gmail.com"><img src="https://img.shields.io/badge/📩%20Gmail-angel.camayojm@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/angelcamayojm-wq"><img src="https://img.shields.io/badge/🐙%20GitHub-angelcamayojm--wq-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,50:6A11CB,100:00C9FF&height=3" width="100%" />
@@ -241,8 +248,8 @@ flowchart LR
 <!-- ============================ DRAGON BALL ============================ -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/B6SyssSlTgPXq/giphy.gif" width="320" alt="Goku Super Saiyan" />
-  <img src="https://media.giphy.com/media/13SBMZWCrSjw6A/giphy.gif" width="320" alt="Dragon Ball" />
+  <img src="https://media.giphy.com/media/B6SyssSlTgPXq/giphy.gif" height="280" alt="Goku Super Saiyan" />
+  <img src="https://media.giphy.com/media/13SBMZWCrSjw6A/giphy.gif" height="280" alt="Goku Dragon Ball" />
 </p>
 
 <p align="center">
@@ -251,5 +258,5 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00C9FF,50:6A11CB,100:141E30&height=150&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:00C9FF,50:6A11CB,100:141E30&height=150&section=footer&reversal=true" />
 </p>
