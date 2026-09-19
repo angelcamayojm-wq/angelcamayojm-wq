@@ -27,72 +27,39 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,50:6A11CB,100:00C9FF&height=3" width="100%" />
 
-<!-- ============================ TERMINAL ============================ -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=30&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&repeat=false&width=700&height=60&lines=💻+Terminal+de+Angel" />
-</p>
-
-```bash
-$ whoami
-angel-rivera 👨‍💻
-
-$ cat rol.txt
-Software Developer in progress 🚀
-
-$ cat estudio.txt
-Análisis y Desarrollo de Software 🎓
-
-$ cat objetivo.txt
-Full Stack Developer 🏆
-
-$ echo $FILOSOFIA
-Romper 💥 → Arreglar 🔧 → Aprender 📚 → Repetir 🔁
-
-$ status --energia
-🔥🔥🔥 100% cargada
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,50:6A11CB,100:00C9FF&height=3" width="100%" />
-
 <!-- ============================ SOBRE MI ============================ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=700&size=30&duration=3000&pause=1000&color=B47CFF&center=true&vCenter=true&repeat=false&width=700&height=60&lines=👨‍💻+Sobre+mí" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=700&size=32&duration=3000&pause=1000&color=B47CFF&center=true&vCenter=true&repeat=false&width=700&height=60&lines=👨‍💻+SOBRE+MÍ" />
 </p>
 
 <p align="center">
-  Soy estudiante de <b>Análisis y Desarrollo de Software</b> y me estoy formando para ser <b>Full Stack Developer</b>.<br>
-  Me gusta construir cosas que funcionan de verdad: desde una página web hasta una <b>API con base de datos</b>, y ponerlas en línea para que cualquiera las use. 🌎
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 </p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="200">🎓<br><b>Estudio</b><br><sub>Análisis y Desarrollo<br>de Software</sub></td>
-    <td align="center" width="200">🎯<br><b>Objetivo</b><br><sub>Full Stack<br>Developer</sub></td>
-    <td align="center" width="200">🔥<br><b>Enfoque</b><br><sub>Práctica<br>constante</sub></td>
-    <td align="center" width="200">🧠<br><b>Filosofía</b><br><sub>Romper, arreglar<br>y aprender</sub></td>
-  </tr>
-</table>
 
 ```javascript
 const angel = {
-  rol: "Software Developer in progress",
+  rol: "Software Developer in progress 👨‍💻",
+  estudio: "Análisis y Desarrollo de Software 🎓",
   frontend: ["HTML", "CSS", "JavaScript"],
   backend: ["Python", "Flask", "Node.js"],
   basesDeDatos: ["MongoDB", "MySQL"],
   despliegue: ["Render", "Netlify"],
-  herramientas: ["Git", "GitHub", "VS Code", "APIs"],
-  aprendiendo: ["APIs REST", "GitHub Actions", "Arquitectura backend"],
-  objetivo: "Full Stack Developer",
+  aprendiendo: ["APIs REST", "GitHub Actions"],
+  objetivo: "Full Stack Developer 🏆",
   energia: "🔥🔥🔥"
 };
 ```
 
 <p align="center">
+  <img src="https://img.shields.io/badge/🎓%20Estudio-Análisis%20y%20Desarrollo%20de%20Software-141E30?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🎯%20Objetivo-Full%20Stack%20Developer-6A11CB?style=for-the-badge" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/📍%20Enfoque-Práctica%20constante-00C9FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/💪%20Filosofía-Romper%2C%20arreglar%2C%20aprender-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔥%20Energía-100%25-FF3D00?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -132,13 +99,20 @@ const angel = {
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="48" />
 </p>
 
-<h3 align="center">🔌 Conceptos que domino y practico</h3>
+<h3 align="center">🔌 Conceptos</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/APIs%20REST-Consumo%20y%20creación-00C9FF?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-Datos-000000?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/CRUD-Operaciones-FF6B35?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-Automatización-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs%20REST-00C9FF?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/CRUD-FF6B35?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="120" />
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="120" />
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="120" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="120" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,50:6A11CB,100:00C9FF&height=3" width="100%" />
@@ -146,19 +120,19 @@ const angel = {
 <!-- ============================ APRENDIENDO ============================ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bangers&size=38&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&repeat=false&width=800&height=60&lines=🔥+LO+QUE+ESTOY+APRENDIENDO" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bangers&size=38&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&repeat=false&width=800&height=60&lines=🔥+APRENDIENDO+AHORA" />
 </p>
 
 <table align="center">
   <tr>
-    <td align="center" width="230">🐍<br><b>Python + Flask</b><br><sub>Backend y rutas web</sub></td>
-    <td align="center" width="230">🟢<br><b>Node.js</b><br><sub>Servidores y APIs</sub></td>
-    <td align="center" width="230">🗄️<br><b>MongoDB + MySQL</b><br><sub>NoSQL y relacional</sub></td>
+    <td align="center" width="230">🐍<br><b>Python + Flask</b></td>
+    <td align="center" width="230">🟢<br><b>Node.js</b></td>
+    <td align="center" width="230">🗄️<br><b>MongoDB + MySQL</b></td>
   </tr>
   <tr>
-    <td align="center" width="230">🔌<br><b>APIs REST</b><br><sub>Consumir y crear</sub></td>
-    <td align="center" width="230">☁️<br><b>Render + Netlify</b><br><sub>Deploy en la nube</sub></td>
-    <td align="center" width="230">🔀<br><b>Git + GitHub</b><br><sub>Branches, PRs, Issues, Actions</sub></td>
+    <td align="center" width="230">🔌<br><b>APIs REST</b></td>
+    <td align="center" width="230">☁️<br><b>Render + Netlify</b></td>
+    <td align="center" width="230">🔀<br><b>Git + GitHub Actions</b></td>
   </tr>
 </table>
 
@@ -181,8 +155,6 @@ const angel = {
 | 🔵    | Git, Branches, PRs, Issues, Actions | 🎯 Practicando     |
 | 🏆    | Full Stack Developer                | 🏗️ En construcción |
 
-<h3 align="center">🗺️ Mi ruta hacia Full Stack</h3>
-
 ```mermaid
 flowchart LR
     A[🌐 HTML + CSS] --> B[⚡ JavaScript]
@@ -192,23 +164,6 @@ flowchart LR
     E --> F[☁️ Render + Netlify]
     F --> G[🏆 Full Stack Developer]
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,50:6A11CB,100:00C9FF&height=3" width="100%" />
-
-<!-- ============================ PRINCIPIOS ============================ -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=700&size=34&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&repeat=false&width=700&height=60&lines=🧭+MIS+PRINCIPIOS" />
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="25%">🔧<br><b>Practicar todos los días</b><br><sub>Código pequeño,<br>constancia grande</sub></td>
-    <td align="center" width="25%">🐛<br><b>Romper y arreglar</b><br><sub>Los errores son<br>mis mejores profesores</sub></td>
-    <td align="center" width="25%">🤝<br><b>Compartir lo aprendido</b><br><sub>Todo lo que subo<br>le puede servir a alguien</sub></td>
-    <td align="center" width="25%">🚀<br><b>Nunca dejar de crecer</b><br><sub>Hoy mejor<br>que ayer</sub></td>
-  </tr>
-</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,50:6A11CB,100:00C9FF&height=3" width="100%" />
 
@@ -255,12 +210,7 @@ flowchart LR
 <!-- ============================ REPOSITORIOS ============================ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=700&size=32&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&repeat=false&width=800&height=60&lines=📂+EXPLORA+MIS+REPOSITORIOS" />
-</p>
-
-<p align="center">
-  Aquí voy dejando todo lo que construyo mientras aprendo: <b>prácticas, ejercicios y proyectos en evolución</b>. 🧪<br>
-  Cada commit es un paso más hacia Full Stack. 👣
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=700&size=32&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&repeat=false&width=800&height=60&lines=📂+MIS+REPOSITORIOS" />
 </p>
 
 <p align="center">
@@ -274,12 +224,7 @@ flowchart LR
 <!-- ============================ CONTACTO ============================ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=30&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&repeat=false&width=700&height=60&lines=📫+CONECTEMOS" />
-</p>
-
-<p align="center">
-  ¿Tienes una idea, un proyecto o quieres aprender en equipo? 💡<br>
-  <b>Escríbeme, con gusto conversamos.</b> 🤝
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=30&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&repeat=false&width=700&height=60&lines=📫+CONTACTO" />
 </p>
 
 <p align="center">
@@ -289,6 +234,15 @@ flowchart LR
   <a href="https://github.com/angelcamayojm-wq">
     <img src="https://img.shields.io/badge/🐙%20GitHub-angelcamayojm--wq-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,50:6A11CB,100:00C9FF&height=3" width="100%" />
+
+<!-- ============================ DRAGON BALL ============================ -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/B6SyssSlTgPXq/giphy.gif" width="320" alt="Goku Super Saiyan" />
+  <img src="https://media.giphy.com/media/13SBMZWCrSjw6A/giphy.gif" width="320" alt="Dragon Ball" />
 </p>
 
 <p align="center">
