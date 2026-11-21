@@ -119,6 +119,17 @@ const angel = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,50:6A11CB,100:00C9FF&height=3" width="100%" />
 
+## ⭐ Proyectos destacados
+
+| Proyecto | Tecnologías | Enfoque |
+|---|---|---|
+| [Sql-Rider](https://github.com/angelcamayojm-wq/Sql-Rider) | Python, Django, SQL | Gestión de flotas y operaciones CRUD |
+| [GeoSpatial-Seismic-Dashboard](https://github.com/angelcamayojm-wq/GeoSpatial-Seismic-Dashboard) | Django, Python, JavaScript | Dashboard geoespacial y datos sísmicos |
+| [crud_flask_mongodb_Esteban](https://github.com/angelcamayojm-wq/crud_flask_mongodb_Esteban) | Flask, Python, MongoDB | API y gestión de usuarios/productos |
+| [App-Ingles_Java](https://github.com/angelcamayojm-wq/App-Ingles_Java) | Java, Android, Gradle | Aplicación móvil educativa |
+| [App-Clima-Api](https://github.com/angelcamayojm-wq/App-Clima-Api) | JavaScript, HTML, CSS, API | Consulta de clima por ciudad |
+| [WaySmart_Try1](https://github.com/angelcamayojm-wq/WaySmart_Try1) | Django, Python, SQLite | Plataforma colaborativa de logística |
+
 <!-- ============================ APRENDIENDO ============================ -->
 
 <p align="center">
